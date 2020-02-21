@@ -1,4 +1,4 @@
-package com.netflix.example.netflixexample;
+package com.netflix.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
